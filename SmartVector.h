@@ -1,10 +1,3 @@
-/*
- * SmartVector.cpp
- *
- *      Author: mohammad asadolahi
- *      https://github.com/mohammadAsadolahi
- *	Mohammad.E.Asadolahi@gmail.com
- */
 #include <memory>
 #include <iostream>
 #include <ctime>
