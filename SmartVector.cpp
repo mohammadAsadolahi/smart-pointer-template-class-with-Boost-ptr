@@ -1,11 +1,3 @@
-/*
- * SmartVector.cpp
- *
- *      Author: mohammad asadolahi 
- *      https://github.com/mohammadAsadolahi
- *	Mohammad.E.Asadolahi@gmail.com
- */
-
 #include "SmartVector.h"
 template<class Type>
 inline auto SmartVector<Type >::add (Type data) throw (unique_ptr<Exception >)->void
